@@ -1,0 +1,16 @@
+{
+    "pg": {
+        "database": "sofisa_development",
+        "user": "root",
+        "password": "root",
+        "schema": "public"
+    },
+    "server": {
+        "port": 9000
+    },
+    "app": {
+        "layouts": true,
+        "themes": true,
+        "languages": true
+    }
+}
